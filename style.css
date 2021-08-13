@@ -1,4 +1,22 @@
-body {background-color:tan;}
-h1{color:green;}
+/* here some values for body tag so background color is set to the black
+and font is set to the arial anf text color is set to the white. */
+body {background-color:black;
+    font-family:arial;
+    color:white}
+/* here are some styling for the h1 type headings background color is set to the 
+grey and font is set to the vardana. */
+h1{color:grey;
+  font-family:verdana;}
+/* here is some modifications to the maindiv class here is a class so we starting eith "."
+background is set to white, text color=black, and the width of the div is 300ox , and
+20px padding and some border radius of 25px and div is centered. */
+.maindiv{
+  background-color:white;
+  color:black;
+  width:300px;
+  padding:20px;
+  border-radius:25px;
+  margin:auto;
+}
 
 
